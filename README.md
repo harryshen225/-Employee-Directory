@@ -1,2 +1,2 @@
-# -Employee-Directory
+# Employee-Directory
  Employee Directory
