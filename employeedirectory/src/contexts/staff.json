@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "firstName": "John",
+        "lastName": "Smith",
+        "jobTitle": "Engineer",
+        "jobCategory": "Full Time",
+        "email": "john.smith2@abc.com",
+        "location": "Australia"
+    },
+    {
+        "id": 2,
+        "firstName": "Tom",
+        "lastName": "Smith",
+        "jobTitle": "Sales",
+        "jobCategory": "Full Time",
+        "email": "john.smith3@abc.com",
+        "location": "US" 
+    },
+    {
+        "id": 3,
+        "firstName": "John",
+        "lastName": "Horton",
+        "jobTitle": "Engineering Manager",
+        "jobCategory": "Part Time",
+        "email": "john.smith4@abc.com",
+        "location": "EU"
+    }
+
+]
